@@ -1,0 +1,23 @@
+
+ 
+.container2,.titulo{
+    background-color: white;
+}
+
+.navbar-brand {
+    font-family: 'Indie Flower', cursive;
+}
+.button2 {
+    margin: 0%;
+    width: 600px;
+}
+input {
+    border: none;
+    padding-left: 10px;
+}
+.fa-stop{
+    color:gray;
+}
+.fa-table-cells{
+    color:gray;
+}
